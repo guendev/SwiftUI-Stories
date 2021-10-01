@@ -11,6 +11,7 @@
 		1C0723B02707852B006571FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0723AF2707852B006571FD /* ContentView.swift */; };
 		1C0723B22707852F006571FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C0723B12707852F006571FD /* Assets.xcassets */; };
 		1C0723B52707852F006571FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C0723B42707852F006571FD /* Preview Assets.xcassets */; };
+		1C0723BD2707969D006571FD /* Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C0723BC2707969D006571FD /* Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1C0723B12707852F006571FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C0723B42707852F006571FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1C0723B62707852F006571FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C0723BC2707969D006571FD /* Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		1C0723AC2707852B006571FD /* Stories */ = {
 			isa = PBXGroup;
 			children = (
+				1C0723BC2707969D006571FD /* Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png */,
 				1C0723AD2707852B006571FD /* StoriesApp.swift */,
 				1C0723AF2707852B006571FD /* ContentView.swift */,
 				1C0723B12707852F006571FD /* Assets.xcassets */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C0723B52707852F006571FD /* Preview Assets.xcassets in Resources */,
+				1C0723BD2707969D006571FD /* Ảnh chụp Màn hình 2021-10-02 lúc 02.18.31.png in Resources */,
 				1C0723B22707852F006571FD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
